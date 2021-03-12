@@ -21,5 +21,6 @@ public class LoginTest {
 	{
 		driver.get("https://gmail.com");
 		System.out.println("The title of page is -> "+driver.getTitle());
+		System.out.println("code will now be pushed");
 	}
 }
