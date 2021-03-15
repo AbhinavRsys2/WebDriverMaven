@@ -23,5 +23,6 @@ public class LoginTest {
 		System.out.println("The title of page is -> "+driver.getTitle());
 		System.out.println("code will now be pushed");
 		System.out.println("code will now be pushed");
+		System.out.println("code will now be pushed");
 	}
 }
