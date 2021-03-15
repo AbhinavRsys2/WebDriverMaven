@@ -3,9 +3,12 @@ package webdriverMavenGit;
 import java.util.LinkedHashMap;
 import java.util.Set;
 
+import org.testng.annotations.Test;
+
 public class FrequencyOfEachCharacterInStringAndRemoveDuplicates {
 
-	public static void main(String[] args) {
+	@Test
+	public void test() {
 		
 		String s1 = "Programmingg";
 		char[] ch = s1.toCharArray();
